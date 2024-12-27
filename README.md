@@ -9,11 +9,7 @@ This repository is a demo project to explore and experience Git and GitHub featu
 - **Learning Goals**: 
   - How to push commits to GitHub
   - How to keep track of branches in Git and GitHub
-  - Explore various Git and GitHub features
-- **Content**: The project mainly provides the lyrics from "Yesterday" by The Beatles.
-
-## GitHub Pages
-
-Check out the hosted page here: [GitHub Pages for github-demo-yesterday](https://taufik-shf.github.io/github-demo-yesterday/).
+  - Explore various Git and GitHub features (e.g GitHub Page, [GitHub Pages for github-demo-yesterday](https://taufik-shf.github.io/github-demo-yesterday/).
+- **Content**: The project mainly provides the lyrics from "Yesterday" by The Beatles
 
 ---
